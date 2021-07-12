@@ -6,6 +6,7 @@ namespace Arr {
             int[] number = { 1, 2, 3, 4, 5, 6, 7, 8, 21, 5, 1 };
             foreach(var item in number){
                 System.Console.WriteLine(item);
+                System.Console.WriteLine("Hello App");
             }
             Console.ReadKey();
         }
