@@ -1,0 +1,16 @@
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\bin\Debug\net5.0\Arr.exe
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\bin\Debug\net5.0\Arr.deps.json
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\bin\Debug\net5.0\Arr.runtimeconfig.json
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\bin\Debug\net5.0\Arr.runtimeconfig.dev.json
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\bin\Debug\net5.0\Arr.dll
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\bin\Debug\net5.0\ref\Arr.dll
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\bin\Debug\net5.0\Arr.pdb
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\Arr.csprojAssemblyReference.cache
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\Arr.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\Arr.AssemblyInfoInputs.cache
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\Arr.AssemblyInfo.cs
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\Arr.csproj.CoreCompileInputs.cache
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\Arr.dll
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\ref\Arr.dll
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\Arr.pdb
+D:\AllPracticleTask\TaskConsole\Arrays\foreach\Arr\obj\Debug\net5.0\Arr.genruntimeconfig.cache
